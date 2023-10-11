@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<style>
+body {text-align: center;}
+ol {list-style-position: inside;}
+#bob {
+  width: 20%;
+    height: auto;
+}
+#superman {
+  width: 20%;
+  height: auto;
+}
+#frogs {
+  width: 20%;
+  height: auto;
+}
+</style>
+<html>
+    <body>
+<body>
+  <h1>First Amendment Rights</h1>
+  <div>
+    <ol><li><b>Free Speech</b>
+      <p><img src="https://media.istockphoto.com/id/668090514/photo/side-profile-portrait-of-senior-angry-man.jpg?s=612x612&w=0&k=20&c=90e14f2lne10Vno9IVbF-gw0V4aY-2JTpNs8vZLzk3g=" alt="a side profile of an old man yelling" id="bob"></p>
+      <p>The First Amendment gives the liberty to speak one's opinion, so long as it does not make a threat to anyone else.</p>
+      <p><i>In Tinker vs. Des Moines Public School District,</i> the students involoved were exercising their right to free speech by wearing armbands to protest American involvement in the Vietnam War. They were not making threats or being violent, and so were within their rights to do so.
+      </p>
+      </li>
+      <li><b>Freedom of the Press</b>
+        <p><img src="https://lh6.googleusercontent.com/-PjiUWNTLkVM/TYgZOd2QbTI/AAAAAAAAAXo/_eD0RiWaiYY/s1600/tumblr_l0hbc2lwcA1qz7t8to1_500.jpg" alt="a picture of Superman sitting at a typewriter" id="superman">
+        </p>
+                <p>Under the First Amendent, the Government cannot censor media based on offensive content or practice censorship.</p>
+        <p>Upton Sinclair wrote about the terrible conditions in a meat packing plant. His story was disturbing to read, and the meat company most likely did not want him to expose what they were doing, but the story was important for people to know.</p>
+      </li>
+      <li>
+        <b>Freedom of Religion</b>
+<p><img src="https://cdn.vox-cdn.com/thumbor/iGkO65hrzkJiHOkz6iftKuWMLyE=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/9870389/coexistforchorus.0.0.0.jpg" alt="the word coexist, with each letter incorporating an image of a different religious symbol" id="frogs"></img></p>
+        <p>Congress cannot establish an official religion in the United States, and people have the right to practice whatever religion they choose.</p>
+        <p>In <i>West Virginia State Board vs. Barnett</i>, Jehovah Witness students exercised their right to freedom of religion by refusing to salute the flag as it went against their religion. 
+    </ol>
+      <p><a href="https://osteoporosisseelau.github.io/libel">Libel >>></a></p>
+      </div>
+    <body>
+    
+    </body>
+</html>
